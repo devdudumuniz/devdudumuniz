@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista de Sistemas - Estácio de Pernambuco. <br>Desenvolvedor Web Full Stack <br>🐍 Python <br>🤖 I.A. <br>👨‍💻 Data Science
+Analista de Sistemas - Estácio de Pernambuco. <br>🐍 Python <br>🤖 I.A. <br>👨‍💻 Data Science
 
 
 ## 🌐 Socials:
