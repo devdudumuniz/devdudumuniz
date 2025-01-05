@@ -15,14 +15,5 @@ Analista de Sistemas. <br>🐍 Python <br>🤖 I.A. <br>👨‍💻 Data Science
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=devdudumuniz&icon=2&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dude.dudu26@gmail.com) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
