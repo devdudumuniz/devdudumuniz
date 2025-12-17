@@ -1,19 +1,167 @@
-# 💫 Olá 👋, sou Eduardo Muniz
-Analista de Sistemas. <br>🐍 Python <br>🤖 I.A. <br>👨‍💻 Data Science
+<!-- =========================================================
+  EDUARDO MUNIZ (devdudumuniz)
+========================================================= -->
 
+<h1 align="center">Eduardo Muniz — Principal Engineer • AI/ML • CyberSecurity • Data Governance</h1>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Dudumuniz12#3270) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eduardo.muniz.39904181) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudumuniz12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dudumuniz12) 
+<p align="center">
+  <b>Engenharia completa: hardware, software, dados, IA e segurança operando em produção.</b><br/>
+  Fundador e arquiteto técnico da <b>DM Technology</b>.
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devdudumuniz&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devdudumuniz&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devdudumuniz&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/dudumuniz12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dudumuniz.com.br"><img src="https://img.shields.io/badge/Site-dudumuniz.com.br-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://artigos.dudumuniz.com.br"><img src="https://img.shields.io/badge/Artigos-Pesquisa%20e%20Engenharia-4B0082?style=for-the-badge"/></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ Quem eu sou
+Sou **engenheiro de software sênior**, **arquiteto de sistemas**, **cientista de dados** e **especialista em Inteligência Artificial**, com **pós-graduação em Cyber Segurança e Governança de Dados**.
+
+Atuo no desenho, construção e operação de **ecossistemas tecnológicos completos**, cobrindo:
+- hardware e sistemas legados próprios,
+- backend e frontend de missão crítica,
+- pipelines de dados auditáveis,
+- IA aplicada (inclusive reconhecimento facial),
+- segurança operacional e governança,
+- automações e agentes em tempo real.
+
+Na **DM Technology**, eu projeto **infraestrutura, plataformas e produtos autorais**, usados em ambientes reais, sensíveis e regulados.
+
+> Não construo “apps”. Construo sistemas que sobrevivem ao mundo real.
+
+---
+
+## 🧠 Engenharia de ponta a ponta (como eu penso sistemas)
+
+### 🧱 Hardware, SO e performance
+- Arquitetura de CPU, cache (L1/L2/L3), RAM, I/O e disco
+- Diagnóstico de gargalos: CPU-bound, I/O-bound, lock contention, cache miss
+- Análise de latência, throughput, backpressure e saturação
+- Sistemas Windows Server, Linux, virtualização, containers e bare metal
+
+### 🌐 Origem, fluxo e confiabilidade dos dados
+- Dados vindos de APIs, sistemas legados, integrações governamentais, sensores e eventos
+- Processamento **batch e streaming**
+- Validação, idempotência, versionamento e trilha de auditoria
+- Governança de dados aplicada (classificação, retenção, rastreabilidade)
+
+---
+
+## 🔐 Cyber Segurança & Governança de Dados (pós + prática)
+- Threat modeling e análise de superfície de ataque
+- Hardening de servidores e serviços
+- Controle de acesso (RBAC/ABAC) e princípio do menor privilégio
+- Gestão de segredos, criptografia e segregação de ambientes
+- Segurança de aplicações (OWASP Top 10, supply chain, SSRF, RCE)
+- Observabilidade com valor forense
+- Conformidade com LGPD em sistemas críticos
+
+> Segurança não é produto. É processo contínuo e verificável.
+
+---
+
+## 🤖 Inteligência Artificial aplicada (engenharia, não marketing)
+
+### Pipeline completo de IA
+- Curadoria e saneamento de datasets
+- Treinamento supervisionado e não supervisionado
+- Avaliação com métricas reais (precision, recall, F1, ROC)
+- Prevenção de overfitting e data leakage
+- Deploy de modelos com controle de custo e latência
+- Monitoramento de drift e degradação
+
+### 👁️ Reconhecimento facial & visão computacional
+- Extração de embeddings e vetores faciais
+- Matching por similaridade (cosine / euclidean)
+- Controle de FAR/FRR e thresholds adaptativos
+- Robustez contra baixa qualidade, variações e tentativas de fraude
+- Integração com sistemas de autenticação e controle
+
+---
+
+## 🧩 DM Technology — ecossistema autoral
+- **HospSync / MedSync**: sistemas de saúde, prontuário, triagem e faturamento
+- **Janus**: plataforma de comunicação em tempo real (WebSocket, Push, FCM)
+- **Sentinel**: agente ativo de segurança e operação em tempo real
+- **Orpheus**: conectividade segura (SSH, reverso, VPN, TOR/Onion)
+- **Infra Anton-grade**: stacks Docker, proxy, observabilidade e automação
+- Equipamentos e sistemas legados próprios integrados ao software moderno
+
+---
+
+## 🧰 Stack Tecnológico (real, usado em produção)
+
+### Linguagens
+C • C# • Python • PHP • Java • Kotlin • Go • Rust • JavaScript • TypeScript • Bash • PowerShell
+
+### Backend & Tempo Real
+FastAPI • Django • Node.js • .NET • Laravel • CodeIgniter • WebSocket
+
+### Frontend
+React • Next.js • Vue • Angular • TailwindCSS • Vite
+
+### Bancos & Cache
+PostgreSQL • MySQL • MariaDB • SQLite • MongoDB • Redis • Elasticsearch
+
+### DevOps & Observabilidade
+Docker • Nginx • Apache • Grafana • Prometheus • Loki
+
+### IA & Dados
+NumPy • Pandas • scikit-learn • OpenCV • PyTorch • TensorFlow
+
+### Segurança
+Linux • Kali • Wireshark • OpenSSL • Hardening & Pentest controlado
+
+---
+
+## 🧪 Artigos, pesquisas e engenharia aplicada
+Publicações técnicas autorais sobre engenharia de sistemas, IA, segurança e dados:
+
+- **Arquiteturas Híbridas: Convivência entre Sistemas Legados e Microserviços Modernos**  
+  https://artigos.dudumuniz.com.br/arquiteturas-hibridas-legado-microservicos
+
+- **Governança de Dados em Ambientes Distribuídos e Sensíveis à Regulação**  
+  https://artigos.dudumuniz.com.br/governanca-dados-ambientes-distribuidos
+
+- **Reconhecimento Facial em Produção: Embeddings, Thresholds e Anti-Fraude**  
+  https://artigos.dudumuniz.com.br/reconhecimento-facial-embeddings-antifraude
+
+- **Observabilidade como Pilar de Confiabilidade em Sistemas Críticos**  
+  https://artigos.dudumuniz.com.br/observabilidade-sistemas-criticos
+
+- **Segurança por Design: Do Threat Modeling ao Hardening Operacional**  
+  https://artigos.dudumuniz.com.br/seguranca-por-design-threat-modeling
+
+- **Treinamento e Monitoramento de Modelos de IA em Ambientes Reais**  
+  https://artigos.dudumuniz.com.br/treinamento-monitoramento-ia-producao
+
+---
+
+## 🧠 Princípios que guiam meu trabalho
+- Dados são produto
+- Automação antes do heroísmo
+- Segurança desde o design
+- Observabilidade não é opcional
+- Simplicidade é vantagem competitiva
+- Legado não é inimigo — é contexto
+
+---
+
+## 📊 GitHub (telemetria do laboratório)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devdudumuniz&theme=darcula&show_icons=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdudumuniz&theme=darcula" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdudumuniz&layout=compact&theme=darcula" />
+</p>
+
+---
+
+## 🤝 DM Technology
+Atuo em projetos onde **complexidade, criticidade e impacto real** caminham juntos.
+
+Se o problema exige engenharia completa — eu estou dentro.
