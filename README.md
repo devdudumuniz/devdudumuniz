@@ -1,18 +1,26 @@
 <!-- =========================================================
-  EDUARDO MUNIZ (devdudumuniz)
+  EDUARDO MUNIZ (devdudumuniz) — README
 ========================================================= -->
 
-<h1 align="center">Eduardo Muniz — Principal Engineer • AI/ML • CyberSecurity • Data Governance</h1>
+<h1 align="center">
+Eduardo Muniz — Principal Engineer • Realtime Systems • AI/ML • CyberSecurity • Data Governance
+</h1>
 
 <p align="center">
-  <b>Engenharia completa: hardware, software, dados, IA e segurança operando em produção.</b><br/>
+  <b>Engenharia completa de sistemas críticos: realtime, vídeo, IA, segurança, dados e infraestrutura.</b><br/>
   Fundador e arquiteto técnico da <b>DM Technology</b>.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dudumuniz12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dudumuniz.com.br"><img src="https://img.shields.io/badge/Site-dudumuniz.com.br-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://artigos.dudumuniz.com.br"><img src="https://img.shields.io/badge/Artigos-Pesquisa%20e%20Engenharia-4B0082?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/dudumuniz12">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://dudumuniz.com.br">
+    <img src="https://img.shields.io/badge/Site-dudumuniz.com.br-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://artigos.dudumuniz.com.br">
+    <img src="https://img.shields.io/badge/Artigos-Pesquisa%20e%20Engenharia-4B0082?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -20,17 +28,16 @@
 ## ⚡ Quem eu sou
 Sou **engenheiro de software sênior**, **arquiteto de sistemas**, **cientista de dados** e **especialista em Inteligência Artificial**, com **pós-graduação em Cyber Segurança e Governança de Dados**.
 
-Atuo no desenho, construção e operação de **ecossistemas tecnológicos completos**, cobrindo:
-- hardware e sistemas legados próprios,
-- backend e frontend de missão crítica,
-- pipelines de dados auditáveis,
-- IA aplicada (inclusive reconhecimento facial),
+Na **DM Technology**, projeto e opero **ecossistemas tecnológicos completos**, indo do **hardware e sistemas embarcados** até **plataformas distribuídas em produção**, com foco em:
+
+- sistemas **realtime** e de **baixa latência**,
+- transmissão e processamento de **vídeo ao vivo**,
+- **vigilância inteligente** e ambientes autônomos,
+- IA aplicada (inclusive **reconhecimento facial**),
 - segurança operacional e governança,
-- automações e agentes em tempo real.
+- integração de **legado crítico** com stacks modernas.
 
-Na **DM Technology**, eu projeto **infraestrutura, plataformas e produtos autorais**, usados em ambientes reais, sensíveis e regulados.
-
-> Não construo “apps”. Construo sistemas que sobrevivem ao mundo real.
+> Não construo demos. Construo sistemas que continuam funcionando sob pressão.
 
 ---
 
@@ -39,65 +46,117 @@ Na **DM Technology**, eu projeto **infraestrutura, plataformas e produtos autora
 ### 🧱 Hardware, SO e performance
 - Arquitetura de CPU, cache (L1/L2/L3), RAM, I/O e disco
 - Diagnóstico de gargalos: CPU-bound, I/O-bound, lock contention, cache miss
-- Análise de latência, throughput, backpressure e saturação
-- Sistemas Windows Server, Linux, virtualização, containers e bare metal
+- Análise de latência, throughput, jitter e backpressure
+- Windows Server, Linux, virtualização, containers e bare metal
+- Integração de equipamentos e controladores legados próprios
 
 ### 🌐 Origem, fluxo e confiabilidade dos dados
-- Dados vindos de APIs, sistemas legados, integrações governamentais, sensores e eventos
-- Processamento **batch e streaming**
-- Validação, idempotência, versionamento e trilha de auditoria
+- Dados vindos de APIs, sistemas legados, eventos, sensores e streams
+- Processamento **batch** e **streaming contínuo**
+- Idempotência, versionamento, consistência e trilha de auditoria
 - Governança de dados aplicada (classificação, retenção, rastreabilidade)
 
 ---
 
-## 🔐 Cyber Segurança & Governança de Dados (pós + prática)
+## 🔐 Cyber Segurança & Governança de Dados
 - Threat modeling e análise de superfície de ataque
-- Hardening de servidores e serviços
-- Controle de acesso (RBAC/ABAC) e princípio do menor privilégio
+- Hardening de servidores, serviços e redes
+- Controle de acesso (RBAC/ABAC) e menor privilégio
 - Gestão de segredos, criptografia e segregação de ambientes
-- Segurança de aplicações (OWASP Top 10, supply chain, SSRF, RCE)
+- Segurança de aplicações (OWASP Top 10, supply chain)
 - Observabilidade com valor forense
-- Conformidade com LGPD em sistemas críticos
+- Conformidade com LGPD e ambientes regulados
 
-> Segurança não é produto. É processo contínuo e verificável.
+> Segurança é engenharia contínua, não produto de prateleira.
 
 ---
 
-## 🤖 Inteligência Artificial aplicada (engenharia, não marketing)
+## ⚡ Especialidade em Sistemas Realtime
+
+Realtime, para mim, é **previsibilidade**, não apenas velocidade.
+
+- Arquiteturas **event-driven** e orientadas a streams
+- WebSocket, RTSP/RTP, filas e canais persistentes
+- Controle de backpressure e reconexão automática
+- Sincronização entre múltiplas fontes em tempo real
+- Operação contínua com tolerância a falhas
+
+Esses sistemas são a base para **comunicação, vídeo, vigilância e automação crítica**.
+
+---
+
+## 🎥 Transmissão e Processamento de Vídeo em Tempo Real
+
+### Servidores de vídeo e expansão
+- Servidores próprios de vídeo (on-prem e híbridos)
+- Distribuição de streams para múltiplos consumidores
+- Gravação contínua, sob demanda e por evento
+- Arquitetura preparada para expansão horizontal de câmeras
+- Monitoramento de qualidade, latência e disponibilidade
+
+### Vigilância inteligente baseada em IA
+- Análise de vídeo em tempo real
+- Detecção de presença, movimento e padrões
+- Classificação de eventos e geração de alertas
+- Integração direta com sistemas de controle e dashboards
+
+---
+
+## 👁️ Inteligência Artificial aplicada
 
 ### Pipeline completo de IA
 - Curadoria e saneamento de datasets
 - Treinamento supervisionado e não supervisionado
 - Avaliação com métricas reais (precision, recall, F1, ROC)
 - Prevenção de overfitting e data leakage
-- Deploy de modelos com controle de custo e latência
-- Monitoramento de drift e degradação
+- Deploy controlado com monitoramento de drift
 
-### 👁️ Reconhecimento facial & visão computacional
-- Extração de embeddings e vetores faciais
+### Reconhecimento facial & visão computacional
+- Extração de embeddings faciais
 - Matching por similaridade (cosine / euclidean)
-- Controle de FAR/FRR e thresholds adaptativos
-- Robustez contra baixa qualidade, variações e tentativas de fraude
-- Integração com sistemas de autenticação e controle
+- Gestão de thresholds e controle de falsos positivos
+- Identificação de pessoas frequentes vs. desconhecidas
+- Geração automática de eventos e alertas contextuais
+
+---
+
+## 🏠 Ambientes Autônomos & Casas Inteligentes (engenharia local)
+
+Desenvolvo **ambientes inteligentes autônomos**, onde a **inteligência reside localmente**, não na nuvem.
+
+- Processamento local (edge computing)
+- Análise contínua de câmeras e sensores
+- Reconhecimento de pessoas frequentes e visitantes
+- Alertas em tempo real baseados em contexto
+- Controle de acesso físico e lógico
+- Integração com múltiplas câmeras e subsistemas
+
+### Isolamento operacional
+- Arquitetura preparada para **modo isolado**
+- Operação local independente de internet
+- Comunicação restrita e controlada entre subsistemas
+- Continuidade de funcionamento mesmo sem conectividade externa
+
+> A prioridade é **resiliência, autonomia e segurança**, não dependência de serviços externos.
 
 ---
 
 ## 🧩 DM Technology — ecossistema autoral
-- **HospSync / MedSync**: sistemas de saúde, prontuário, triagem e faturamento
-- **Janus**: plataforma de comunicação em tempo real (WebSocket, Push, FCM)
-- **Sentinel**: agente ativo de segurança e operação em tempo real
-- **Orpheus**: conectividade segura (SSH, reverso, VPN, TOR/Onion)
-- **Infra Anton-grade**: stacks Docker, proxy, observabilidade e automação
-- Equipamentos e sistemas legados próprios integrados ao software moderno
+- **HospSync / MedSync**: saúde, prontuário, triagem e faturamento
+- **Janus**: plataforma realtime (WebSocket, Push, FCM)
+- **Sentinel**: agente ativo de segurança e observabilidade
+- **Orpheus**: conectividade segura e controlada
+- **Infra Anton-grade**: Docker, proxy, observabilidade, automação
+- Integração de sistemas e equipamentos legados próprios
 
 ---
 
-## 🧰 Stack Tecnológico (real, usado em produção)
+## 🧰 Stack Tecnológico (produção real)
 
 ### Linguagens
 C • C# • Python • PHP • Java • Kotlin • Go • Rust • JavaScript • TypeScript • Bash • PowerShell
 
-### Backend & Tempo Real
+### Backend & Realtime
 FastAPI • Django • Node.js • .NET • Laravel • CodeIgniter • WebSocket
 
 ### Frontend
@@ -113,40 +172,37 @@ Docker • Nginx • Apache • Grafana • Prometheus • Loki
 NumPy • Pandas • scikit-learn • OpenCV • PyTorch • TensorFlow
 
 ### Segurança
-Linux • Kali • Wireshark • OpenSSL • Hardening & Pentest controlado
+Linux • Hardening • Monitoramento • Auditoria
 
 ---
 
 ## 🧪 Artigos, pesquisas e engenharia aplicada
-Publicações técnicas autorais sobre engenharia de sistemas, IA, segurança e dados:
+Publicações técnicas autorais:
 
-- **Arquiteturas Híbridas: Convivência entre Sistemas Legados e Microserviços Modernos**  
-  https://artigos.dudumuniz.com.br/arquiteturas-hibridas-legado-microservicos
+- **Arquiteturas Realtime para Sistemas Críticos Distribuídos**  
+  https://artigos.dudumuniz.com.br/arquiteturas-realtime-sistemas-criticos
 
-- **Governança de Dados em Ambientes Distribuídos e Sensíveis à Regulação**  
-  https://artigos.dudumuniz.com.br/governanca-dados-ambientes-distribuidos
+- **Processamento de Vídeo em Tempo Real com IA em Ambientes On-Prem**  
+  https://artigos.dudumuniz.com.br/video-realtime-ia-onprem
 
-- **Reconhecimento Facial em Produção: Embeddings, Thresholds e Anti-Fraude**  
-  https://artigos.dudumuniz.com.br/reconhecimento-facial-embeddings-antifraude
+- **Reconhecimento Facial em Produção: Embeddings, Métricas e Governança**  
+  https://artigos.dudumuniz.com.br/reconhecimento-facial-producao
 
-- **Observabilidade como Pilar de Confiabilidade em Sistemas Críticos**  
-  https://artigos.dudumuniz.com.br/observabilidade-sistemas-criticos
+- **Ambientes Inteligentes Autônomos: Edge Computing e Resiliência**  
+  https://artigos.dudumuniz.com.br/ambientes-inteligentes-autonomos
 
-- **Segurança por Design: Do Threat Modeling ao Hardening Operacional**  
-  https://artigos.dudumuniz.com.br/seguranca-por-design-threat-modeling
-
-- **Treinamento e Monitoramento de Modelos de IA em Ambientes Reais**  
-  https://artigos.dudumuniz.com.br/treinamento-monitoramento-ia-producao
+- **Segurança por Design em Sistemas Realtime e Distribuídos**  
+  https://artigos.dudumuniz.com.br/seguranca-por-design-realtime
 
 ---
 
 ## 🧠 Princípios que guiam meu trabalho
+- Realtime exige previsibilidade
 - Dados são produto
 - Automação antes do heroísmo
 - Segurança desde o design
 - Observabilidade não é opcional
-- Simplicidade é vantagem competitiva
-- Legado não é inimigo — é contexto
+- Legado é contexto, não obstáculo
 
 ---
 
@@ -162,6 +218,6 @@ Publicações técnicas autorais sobre engenharia de sistemas, IA, segurança e 
 ---
 
 ## 🤝 DM Technology
-Atuo em projetos onde **complexidade, criticidade e impacto real** caminham juntos.
+Atuo em projetos onde **realtime, segurança, dados e IA** precisam funcionar juntos, sob pressão e em produção.
 
-Se o problema exige engenharia completa — eu estou dentro.
+Se o problema exige **engenharia completa**, eu estou dentro.
