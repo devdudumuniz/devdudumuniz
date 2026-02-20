@@ -1,9 +1,9 @@
 <!-- =========================================================
-  EDUARDO MUNIZ (devdudumuniz) — README
+  EDUARDO MUNIZ (devdudumuniz) — README LITE
 ========================================================= -->
 
 <h1 align="center">
-Eduardo Muniz — Principal Engineer • Realtime Systems • AI/ML • CyberSecurity • Data Governance
+  Eduardo Muniz — Principal Engineer
 </h1>
 
 <p align="center">
@@ -18,206 +18,129 @@ Eduardo Muniz — Principal Engineer • Realtime Systems • AI/ML • CyberSec
   <a href="https://dudumuniz.com.br">
     <img src="https://img.shields.io/badge/Site-dudumuniz.com.br-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <a href="https://artigos.dudumuniz.com.br">
-    <img src="https://img.shields.io/badge/Artigos-Pesquisa%20e%20Engenharia-4B0082?style=for-the-badge"/>
-  </a>
 </p>
 
 ---
 
 ## ⚡ Quem eu sou
+
 Sou **engenheiro de software sênior**, **arquiteto de sistemas**, **cientista de dados** e **especialista em Inteligência Artificial**, com **pós-graduação em Cyber Segurança e Governança de Dados**.
 
-Na **DM Technology**, projeto e opero **ecossistemas tecnológicos completos**, indo do **hardware e sistemas embarcados** até **plataformas distribuídas em produção**, com foco em:
-
-- sistemas **realtime** e de **baixa latência**,
-- transmissão e processamento de **vídeo ao vivo**,
-- **vigilância inteligente** e ambientes autônomos,
-- IA aplicada (inclusive **reconhecimento facial**),
-- segurança operacional e governança,
-- integração de **legado crítico** com stacks modernas.
-
-> Não construo demos. Construo sistemas que continuam funcionando sob pressão.
+Na **DM Technology**, projeto e opero **ecossistemas tecnológicos completos**, indo do **hardware e sistemas embarcados** até **plataformas distribuídas em produção**.
 
 ---
 
-## 🧠 Engenharia de ponta a ponta (como eu penso sistemas)
+## 📌 O que eu entrego (sem romance)
 
-### 🧱 Hardware, SO e performance
-- Arquitetura de CPU, cache (L1/L2/L3), RAM, I/O e disco
-- Diagnóstico de gargalos: CPU-bound, I/O-bound, lock contention, cache miss
-- Análise de latência, throughput, jitter e backpressure
-- Windows Server, Linux, virtualização, containers e bare metal
-- Integração de equipamentos e controladores legados próprios
-
-### 🌐 Origem, fluxo e confiabilidade dos dados
-- Dados vindos de APIs, sistemas legados, eventos, sensores e streams
-- Processamento **batch** e **streaming contínuo**
-- Idempotência, versionamento, consistência e trilha de auditoria
-- Governança de dados aplicada (classificação, retenção, rastreabilidade)
+- Arquiteturas **realtime** com previsibilidade (latência, reconexão, backpressure, tolerância a falhas)
+- Sistemas **on-prem/híbridos** com segurança operacional (hardening, segregação, trilhas e governança)
+- Pipelines de **IA aplicada** com métricas, drift e controle de risco (não “demo de notebook”)
+- Integração de **legado crítico** com stacks modernas sem quebrar produção
+- **Janus**: Plataforma especialista em sistemas **realtime** para vídeo, áudio, chat e painéis de chamada.
+- **Coach de IA**: Treinamento e criação de modelos de Machine Learning do zero, com foco em resultados práticos.
 
 ---
 
-## 🔐 Cyber Segurança & Governança de Dados
-- Threat modeling e análise de superfície de ataque
-- Hardening de servidores, serviços e redes
-- Controle de acesso (RBAC/ABAC) e menor privilégio
-- Gestão de segredos, criptografia e segregação de ambientes
-- Segurança de aplicações (OWASP Top 10, supply chain)
-- Observabilidade com valor forense
-- Conformidade com LGPD e ambientes regulados
+## 🧩 DM Technology — ecossistema autoral (produtos em produção)
 
-> Segurança é engenharia contínua, não produto de prateleira.
-
----
-
-## ⚡ Especialidade em Sistemas Realtime
-
-Realtime, para mim, é **previsibilidade**, não apenas velocidade.
-
-- Arquiteturas **event-driven** e orientadas a streams
-- WebSocket, RTSP/RTP, filas e canais persistentes
-- Controle de backpressure e reconexão automática
-- Sincronização entre múltiplas fontes em tempo real
-- Operação contínua com tolerância a falhas
-
-Esses sistemas são a base para **comunicação, vídeo, vigilância e automação crítica**.
+- **RegulaSync**: compliance e operação regulada
+- **HospSync / MedSync**: saúde — prontuário, triagem, integrações e faturamento
+- **Janus**: realtime platform (WebSocket, filas, notificações/push)
+- **Sentinel**: agente ativo de observabilidade e segurança
+- **Zetta Bastion**: jump-host e acesso seguro
+- **Anton-Infra / DM-Hub**: plataforma infra para serviços
+- **Anton-AI / Deda-IA**: IA aplicada on-prem
+- **Orpheus**: conectividade controlada entre ambientes
 
 ---
 
-## 🎥 Transmissão e Processamento de Vídeo em Tempo Real
-
-### Servidores de vídeo e expansão
-- Servidores próprios de vídeo (on-prem e híbridos)
-- Distribuição de streams para múltiplos consumidores
-- Gravação contínua, sob demanda e por evento
-- Arquitetura preparada para expansão horizontal de câmeras
-- Monitoramento de qualidade, latência e disponibilidade
-
-### Vigilância inteligente baseada em IA
-- Análise de vídeo em tempo real
-- Detecção de presença, movimento e padrões
-- Classificação de eventos e geração de alertas
-- Integração direta com sistemas de controle e dashboards
-
----
-
-## 👁️ Inteligência Artificial aplicada
-
-### Pipeline completo de IA
-- Curadoria e saneamento de datasets
-- Treinamento supervisionado e não supervisionado
-- Avaliação com métricas reais (precision, recall, F1, ROC)
-- Prevenção de overfitting e data leakage
-- Deploy controlado com monitoramento de drift
-
-### Reconhecimento facial & visão computacional
-- Extração de embeddings faciais
-- Matching por similaridade (cosine / euclidean)
-- Gestão de thresholds e controle de falsos positivos
-- Identificação de pessoas frequentes vs. desconhecidas
-- Geração automática de eventos e alertas contextuais
-
----
-
-## 🏠 Ambientes Autônomos & Casas Inteligentes (engenharia local)
-
-Desenvolvo **ambientes inteligentes autônomos**, onde a **inteligência reside localmente**, não na nuvem.
-
-- Processamento local (edge computing)
-- Análise contínua de câmeras e sensores
-- Reconhecimento de pessoas frequentes e visitantes
-- Alertas em tempo real baseados em contexto
-- Controle de acesso físico e lógico
-- Integração com múltiplas câmeras e subsistemas
-
-### Isolamento operacional
-- Arquitetura preparada para **modo isolado**
-- Operação local independente de internet
-- Comunicação restrita e controlada entre subsistemas
-- Continuidade de funcionamento mesmo sem conectividade externa
-
-> A prioridade é **resiliência, autonomia e segurança**, não dependência de serviços externos.
-
----
-
-## 🧩 DM Technology — ecossistema autoral
-- **HospSync / MedSync**: saúde, prontuário, triagem e faturamento
-- **Janus**: plataforma realtime (WebSocket, Push, FCM)
-- **Sentinel**: agente ativo de segurança e observabilidade
-- **Orpheus**: conectividade segura e controlada
-- **Infra Anton-grade**: Docker, proxy, observabilidade, automação
-- Integração de sistemas e equipamentos legados próprios
-
----
-
-## 🧰 Stack Tecnológico (produção real)
+## 🧰 Stack Tecnológica (em produção real)
 
 ### Linguagens
-C • C# • Python • PHP • Java • Kotlin • Go • Rust • JavaScript • TypeScript • Bash • PowerShell
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+</p>
 
 ### Backend & Realtime
-FastAPI • Django • Node.js • .NET • Laravel • CodeIgniter • WebSocket
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Janus-Realtime%20Platform-blueviolet?style=for-the-badge"/>
+</p>
 
 ### Frontend
-React • Next.js • Vue • Angular • TailwindCSS • Vite
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
-### Bancos & Cache
-PostgreSQL • MySQL • MariaDB • SQLite • MongoDB • Redis • Elasticsearch
+### Bancos de Dados & Cache
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-4CAF50?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
 ### DevOps & Observabilidade
-Docker • Nginx • Apache • Grafana • Prometheus • Loki
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-1677FF?style=for-the-badge&logo=grafana-loki&logoColor=white"/>
+</p>
 
-### IA & Dados
-NumPy • Pandas • scikit-learn • OpenCV • PyTorch • TensorFlow
+### IA & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
 
 ### Segurança
-Linux • Hardening • Monitoramento • Auditoria
-
----
-
-## 🧪 Artigos, pesquisas e engenharia aplicada
-Publicações técnicas autorais:
-
-- **Arquiteturas Realtime para Sistemas Críticos Distribuídos**  
-  https://artigos.dudumuniz.com.br/arquiteturas-realtime-sistemas-criticos
-
-- **Processamento de Vídeo em Tempo Real com IA em Ambientes On-Prem**  
-  https://artigos.dudumuniz.com.br/video-realtime-ia-onprem
-
-- **Reconhecimento Facial em Produção: Embeddings, Métricas e Governança**  
-  https://artigos.dudumuniz.com.br/reconhecimento-facial-producao
-
-- **Ambientes Inteligentes Autônomos: Edge Computing e Resiliência**  
-  https://artigos.dudumuniz.com.br/ambientes-inteligentes-autonomos
-
-- **Segurança por Design em Sistemas Realtime e Distribuídos**  
-  https://artigos.dudumuniz.com.br/seguranca-por-design-realtime
-
----
-
-## 🧠 Princípios que guiam meu trabalho
-- Realtime exige previsibilidade
-- Dados são produto
-- Automação antes do heroísmo
-- Segurança desde o design
-- Observabilidade não é opcional
-- Legado é contexto, não obstáculo
-
----
-
-## 📊 GitHub (telemetria do laboratório)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devdudumuniz&theme=darcula&show_icons=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdudumuniz&theme=darcula" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdudumuniz&layout=compact&theme=darcula" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-1E90FF?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardening-8B0000?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auditoria-4B0082?style=for-the-badge&logo=splunk&logoColor=white"/>
 </p>
 
 ---
 
-## 🤝 DM Technology
+##  Eduardo Muniz
+
 Atuo em projetos onde **realtime, segurança, dados e IA** precisam funcionar juntos, sob pressão e em produção.
 
 Se o problema exige **engenharia completa**, eu estou dentro.
