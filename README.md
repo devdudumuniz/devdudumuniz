@@ -28,18 +28,16 @@ Construo e opero **ecossistemas tecnológicos completos**: sistemas distribuído
 |---|---|---|
 | **DM Technology** | Plataformas multi-tenant para saúde pública, gestão municipal, jurídico, negócios e infraestrutura | [Ver plataformas](./docs/PLATFORMS.md) |
 | **Pesquisa autoral** | IA, sistemas cognitivos, causalidade, computação científica e processamento de sinais | [Ver pesquisa](./docs/RESEARCH.md) |
-| **Engenharia de baixo nível** | Processadores RISC-V, aceleradores FPGA, SoCs e runtimes de computação | [Ver projetos](./docs/RESEARCH.md#hardware) |
+| **Engenharia de baixo nível** | Runtimes de aceleração, drivers, FPGA, SoCs e arquiteturas RISC-V | [Ver projetos](./docs/RESEARCH.md#hardware) |
 | **Perfil técnico** | Especialidades, formação, princípios de engenharia e atuação profissional | [Ver perfil completo](./docs/PROFILE.md) |
 
-## Repositórios selecionados
+## Repositórios públicos em destaque
 
-- [**DM-NeuralArchitect**](https://github.com/dmtechsoftwares-sudo/DM-NeuralArchitect) — busca neural multiobjetivo, SuperNet, pruning e quantização.
-- [**DM-Orchestrator**](https://github.com/dmtechsoftwares-sudo/DM-Orchestrator) — orquestração de LLMs, ferramentas, MCP, DAGs e memória em múltiplos níveis.
-- [**DM-SUS-Analytics**](https://github.com/dmtechsoftwares-sudo/DM-SUS-Analytics) — computação aplicada à saúde pública, epidemiologia e análise geoespacial.
-- [**DM-RISCV-Core**](https://github.com/dmtechsoftwares-sudo/DM-RISCV-Core) — processador RISC-V RV32IMC em SystemVerilog.
-- [**DM-FPGAccel**](https://github.com/dmtechsoftwares-sudo/DM-FPGAccel) — acelerador neural FPGA com array sistólico INT8.
+- [**AgentSight**](https://github.com/devdudumuniz/AgentSight) — camada visual governada para agentes de IA, com consentimento, escopo, redação local e trilha de auditoria.
+- [**DM-Orchestrator**](https://github.com/dmtechsoftwares-sudo/DM-Orchestrator) — orquestração multiagente com ferramentas, MCP, execução em DAG e memória compartilhada.
+- [**DM-KernelForge**](https://github.com/dmtechsoftwares-sudo/DM-KernelForge) — runtime de aceleração para hardware customizado, com driver, streams, grafos, DMA e zero-copy.
 
-**[Explorar o catálogo completo de pesquisa →](./docs/RESEARCH.md)**
+**[Explorar pesquisa e projetos autorais →](./docs/RESEARCH.md)**
 
 ## Stack principal
 
