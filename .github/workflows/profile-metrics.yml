@@ -1,0 +1,72 @@
+name: Refresh profile metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-metrics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Download and validate metrics SVG
+        shell: bash
+        env:
+          METRICS_URL: "https://metrics.lecoq.io/devdudumuniz?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config_timezone=America%2FBahia"
+        run: |
+          set -euo pipefail
+
+          tmp_file="$(mktemp)"
+          trap 'rm -f "$tmp_file"' EXIT
+
+          curl \
+            --fail \
+            --location \
+            --silent \
+            --show-error \
+            --retry 3 \
+            --retry-delay 5 \
+            --retry-all-errors \
+            --max-time 180 \
+            "$METRICS_URL" \
+            --output "$tmp_file"
+
+          test -s "$tmp_file"
+          grep -q '<svg' "$tmp_file"
+          ! grep -qi '<html' "$tmp_file"
+
+          mv "$tmp_file" github-metrics.svg
+          trap - EXIT
+
+      - name: Commit updated metrics
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git add github-metrics.svg
+          if git diff --cached --quiet; then
+            echo "Metrics are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(metrics): refresh GitHub profile metrics"
+          git push
