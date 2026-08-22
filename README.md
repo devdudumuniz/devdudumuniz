@@ -11,7 +11,7 @@ Construo **sistemas distribuídos, IA on-prem e plataformas críticas** — da a
 `Senior Software Engineer · Computer Vision · GovTech · Low-Level Engineering`  
 `Barra do Choça, Bahia, Brasil 🇧🇷`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dudumuniz12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-muniz-alves)
 [![Website](https://img.shields.io/badge/dudumuniz.com.br-111827?style=flat-square&logo=firefox&logoColor=white)](https://dudumuniz.com.br)
 [![DM Technology](https://img.shields.io/badge/DM_Technology-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dmtechsoftwares-sudo)
 
@@ -59,7 +59,7 @@ Minha régua de engenharia é simples: software precisa ser **seguro, observáve
 
 Para conversar sobre arquitetura de software, IA aplicada, integrações, automação, observabilidade ou operação de sistemas:
 
-[LinkedIn](https://linkedin.com/in/dudumuniz12) · [Website](https://dudumuniz.com.br) · [DM Technology no GitHub](https://github.com/dmtechsoftwares-sudo)
+[LinkedIn](https://www.linkedin.com/in/eduardo-muniz-alves) · [Website](https://dudumuniz.com.br) · [DM Technology no GitHub](https://github.com/dmtechsoftwares-sudo)
 
 ---
 
