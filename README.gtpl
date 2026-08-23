@@ -65,19 +65,15 @@
 
 ### 🔨 Recent Pull Requests
 
-- [docs: add contribution guidelines](https://github.com/g0h4n/RustHound-CE/pull/54) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-- [feat: collect domain dSHeuristics](https://github.com/g0h4n/RustHound-CE/pull/53) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-- [test: cover SID and GUID conversion helpers](https://github.com/g0h4n/RustHound-CE/pull/52) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-- [fix: populate Computer HasSIDHistory from sIDHistory](https://github.com/g0h4n/RustHound-CE/pull/51) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-- [fix: populate User HasSIDHistory from sIDHistory](https://github.com/g0h4n/RustHound-CE/pull/50) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 
 ### ⭐ Recent Stars
 
-- [CampusVirtualFiocruz/painel-esus](https://github.com/CampusVirtualFiocruz/painel-esus) — Municipal APS information, clinical and care management.
-- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) — Bulk removal of unwanted Windows applications.
-- [arcadesdude/BRU](https://github.com/arcadesdude/BRU) — Automated Windows bloatware removal.
-- [flick9000/winscript](https://github.com/flick9000/winscript) — Open-source Windows script builder.
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) — Lightweight Windows 11 debloat and privacy tooling.
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) — {{ .Repo.Description }}
+{{- end }}
 
 ### 📫 How to reach me
 

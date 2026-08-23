@@ -1,0 +1,46 @@
+name: Refresh profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "47 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme
+  cancel-in-progress: true
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PROFILE_PAT: ${{ secrets.PROFILE_PAT }}
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Explain missing public token
+        if: ${{ env.PROFILE_PAT == '' }}
+        run: |
+          echo "::notice::PROFILE_PAT is not configured. The committed README remains active."
+          echo "::notice::Use a scope-less public-only PAT. Never grant repo or private-repository access."
+
+      - name: Generate README from public GitHub activity
+        if: ${{ env.PROFILE_PAT != '' }}
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_PAT }}
+        with:
+          template: README.gtpl
+          writeTo: README.md
+
+      - name: Commit README update
+        if: ${{ env.PROFILE_PAT != '' }}
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile): refresh public activity"
+          file_pattern: README.md

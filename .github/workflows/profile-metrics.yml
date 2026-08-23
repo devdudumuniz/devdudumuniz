@@ -1,0 +1,48 @@
+name: Refresh profile metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      PROFILE_PAT: ${{ secrets.PROFILE_PAT }}
+
+    steps:
+      - name: Explain missing public token
+        if: ${{ env.PROFILE_PAT == '' }}
+        run: |
+          echo "::notice::PROFILE_PAT is not configured. The committed fallback SVG remains active."
+          echo "::notice::Use a scope-less public-only PAT. Never grant repo or private-repository access."
+
+      - name: Generate GitHub metrics
+        if: ${{ env.PROFILE_PAT != '' }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.PROFILE_PAT }}
+          user: devdudumuniz
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Bahia
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used, recently-used
