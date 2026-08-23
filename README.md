@@ -47,44 +47,6 @@
   <img src="https://raw.githubusercontent.com/devdudumuniz/devdudumuniz/main/github-metrics.svg" alt="GitHub metrics for Eduardo Muniz Alves" width="100%" />
 </p>
 
-### 👷 What I'm currently working on
-
-- [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE) — Rust contributions for Active Directory and BloodHound data collection.
-- [devdudumuniz/AgentSight](https://github.com/devdudumuniz/AgentSight) — Governed visual access for AI agents with consent, local redaction and auditability.
-- [dmtechsoftwares-sudo/DM-Orchestrator](https://github.com/dmtechsoftwares-sudo/DM-Orchestrator) — Multi-agent orchestration with MCP, DAG execution and shared memory.
-- [dmtechsoftwares-sudo/DM-KernelForge](https://github.com/dmtechsoftwares-sudo/DM-KernelForge) — Custom hardware acceleration runtime with drivers, DMA and zero-copy.
-- [devdudumuniz/devops-didatico](https://github.com/devdudumuniz/devops-didatico) — Practical and reproducible DevOps learning material.
-
-### 🌱 Public projects
-
-- [devdudumuniz/AgentSight](https://github.com/devdudumuniz/AgentSight) — Governed visual layer for AI agents.
-- [dmtechsoftwares-sudo/DM-Orchestrator](https://github.com/dmtechsoftwares-sudo/DM-Orchestrator) — Advanced AI orchestration framework.
-- [dmtechsoftwares-sudo/DM-KernelForge](https://github.com/dmtechsoftwares-sudo/DM-KernelForge) — Low-level acceleration runtime.
-- [devdudumuniz/devops-didatico](https://github.com/devdudumuniz/devops-didatico) — DevOps from fundamentals to production.
-- [devdudumuniz/scripts-termux](https://github.com/devdudumuniz/scripts-termux) — Automation and operational scripts for Termux.
-
-### 🔨 Recent Pull Requests
-
-- [docs: add contribution guidelines](https://github.com/g0h4n/RustHound-CE/pull/54) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-- [feat: collect domain dSHeuristics](https://github.com/g0h4n/RustHound-CE/pull/53) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-- [test: cover SID and GUID conversion helpers](https://github.com/g0h4n/RustHound-CE/pull/52) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-- [fix: populate Computer HasSIDHistory from sIDHistory](https://github.com/g0h4n/RustHound-CE/pull/51) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-- [fix: populate User HasSIDHistory from sIDHistory](https://github.com/g0h4n/RustHound-CE/pull/50) on [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-
-### ⭐ Recent Stars
-
-- [CampusVirtualFiocruz/painel-esus](https://github.com/CampusVirtualFiocruz/painel-esus) — Municipal APS information, clinical and care management.
-- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) — Bulk removal of unwanted Windows applications.
-- [arcadesdude/BRU](https://github.com/arcadesdude/BRU) — Automated Windows bloatware removal.
-- [flick9000/winscript](https://github.com/flick9000/winscript) — Open-source Windows script builder.
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) — Lightweight Windows 11 debloat and privacy tooling.
-
-### 📫 How to reach me
-
-- LinkedIn: <https://www.linkedin.com/in/eduardo-muniz-alves>
-- Website: <https://dudumuniz.com.br>
-- Instagram: <https://www.instagram.com/dudumuniz12>
-- DM Technology: <https://github.com/dmtechsoftwares-sudo>
 
 ---
 
