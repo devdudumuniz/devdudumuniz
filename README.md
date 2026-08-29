@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devdudumuniz/devdudumuniz/main/eduardo-muniz-github.svg" alt="Eduardo Muniz — Systems, Applied AI and Infrastructure" width="760" />
+  <img src="https://raw.githubusercontent.com/devdudumuniz/devdudumuniz/main/eduardo-muniz.svg" alt="Eduardo Muniz — Systems, Applied AI and Infrastructure" width="760" />
 </p>
 
 <p align="center">
