@@ -8,9 +8,6 @@
   </a>
 </p>
 
-
-### GitHub Stats
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devdudumuniz/devdudumuniz/main/github-metrics.svg" alt="GitHub metrics for Eduardo Muniz Alves" width="100%" />
 </p>
