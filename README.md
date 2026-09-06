@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/devdudumuniz/devdudumuniz/main/eduardo-muniz.svg" alt="Eduardo Muniz — Systems, Applied AI and Infrastructure" width="760" />
 </p>
 
----
-
-[Professional profile](./docs/PROFILE.md) · [Platforms](./docs/PLATFORMS.md) · [Research](./docs/RESEARCH.md) · [Stack](./docs/STACK.md)
+<p align="center">
+  <a href="./docs/PROFILE.md">Professional profile</a> · 
+  <a href="./docs/PLATFORMS.md">Platforms</a> · 
+  <a href="./docs/RESEARCH.md">Research</a> · 
+  <a href="./docs/STACK.md">Stack</a>
+</p>
